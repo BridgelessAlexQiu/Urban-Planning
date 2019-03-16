@@ -1,40 +1,40 @@
-Sandwich Place
-Department Store
-Bakery
-Music Venue
-Residential Building (Apartment / Condo)
-Diner
-Restaurant
-CafÃ©
-Drugstore / Pharmacy
-Plaza
+College Academic Building
 Other Great Outdoors
+Subway
+Pizza Place
+Bank
+Road
+Gym / Fitness Center
+Diner
+Department Store
+Airport
+Deli / Bodega
+Café
+Drugstore / Pharmacy
+Food & Drink Shop
+Bakery
+Train Station
+Bar
+Gas Station / Garage
+Bus Station
+Sandwich Place
+Office
+Plaza
+Restaurant
+Coffee Shop
 General Entertainment
 Bridge
-Bank
-Bar
-Airport
-Bus Station
-Electronics Store
-Clothing Store
+Salon / Barbershop
+Residential Building (Apartment / Condo)
+Building
+Food Joint
+Hotel
+Movie Theater
 Neighborhood
 Park
-Building
-Road
-Gas Station / Garage
-Gym / Fitness Center
-Train Station
-College Academic Building
-Pizza Place
+Music Venue
 Government Building
-Subway
-Food Joint
-Office
-Movie Theater
-Deli / Bodega
 Medical Center
-Coffee Shop
 Home (private)
-Salon / Barbershop
-Hotel
-Food & Drink Shop
+Clothing Store
+Electronics Store
