@@ -74,6 +74,13 @@ for r in remove:
 #----------------------------------------------------------------------------------#
 
 
+#---------------------------Remaining users---------------------------#
+users = []
+for user in user_checkin_history.keys():
+    users.append(user)
+#---------------------------------------------------------------------#
+
+
 #-------------------------Example code-------------------------------#
 def poptics(checkin_location, yita):
     # something...
@@ -81,3 +88,7 @@ def poptics(checkin_location, yita):
 
 # Example : run POPIICS on user 10, note that the user id '10' is a string
 poptics(user_checkin_history['10'], 0.5)
+
+# Example : run POPTICS on every user:
+for user in users:
+    poptics(user_checkin_history[user], 0.5)
