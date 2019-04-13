@@ -1,0 +1,40 @@
+Department Store
+Other Great Outdoors
+Movie Theater
+Airport
+Medical Center
+General Entertainment
+Neighborhood
+Road
+Sandwich Place
+Deli / Bodega
+Bar
+Plaza
+Residential Building (Apartment / Condo)
+Hotel
+Subway
+Restaurant
+Music Venue
+Park
+Train Station
+Gym / Fitness Center
+Building
+College Academic Building
+Clothing Store
+Salon / Barbershop
+Government Building
+Diner
+Coffee Shop
+Gas Station / Garage
+Bridge
+Bus Station
+Pizza Place
+Home (private)
+Café
+Bakery
+Drugstore / Pharmacy
+Bank
+Electronics Store
+Food Joint
+Office
+Food & Drink Shop
